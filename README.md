@@ -1,5 +1,5 @@
-# kadai13_cheese_rich02
-チーズアカデミーリッチvre-02
+# kadai13_cheese_rich01
+チーズアカデミーリッチvre-01
 # ①課題番号-プロダクト名
 
 チーズアカデミーリッチvre
