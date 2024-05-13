@@ -11,7 +11,7 @@ tailwindcssを使用した
 
 ## ③DEMO
 
-https://takahashi1378.github.io/kadai13_cheese_rich/
+https://takahashi1378.github.io/kadai13_cheese_rich01/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
@@ -24,8 +24,7 @@ tailwindcssの使用
 ## ⑥難しかった点・次回トライしたいこと(又は機能)
 
 レスポンシブ仕様にする点
-画像が表示できなかった
-文字の色が指定できなかった
+バックグランド画像が表示できなかった
 
 ## ⑦質問・疑問・感想、シェアしたいこと等なんでも
 
